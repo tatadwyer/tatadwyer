@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatadwyer
-- 👀 I’m interested in working remotely.
-- 🌱 I’m currently learning google cloud and python for data engineering.
-- 💞️ I’m looking to collaborate on projects that will help me aquire experience in tech.
+- 💞️ Career transitioning
+- :dog2:	From veterinary to devops
+- :woman_technologist:	Currently devops intern, working remotely from Brasil
 - 📫 How to reach me: www.linkedin.com/in/talitadwyer
 
 <!---
